@@ -15,7 +15,7 @@ public class Main {
         n = sc.nextInt();
         System.out.println("bbb");
         System.out.println("hungpc1");
-        System.out.println("tao la quyltt");
+        System.out.println("tao la hungpc1");
 
         int[] arrInt = new int[n];
         System.out.println("Enter the elements of the array: ");
