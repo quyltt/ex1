@@ -13,7 +13,8 @@ public class Main {
         // create new array
         System.out.print("Enter the number of elements you want to store: ");
         n = sc.nextInt();
-        System.out.println("aaa");
+        System.out.println("bbb");
+        System.out.println("hungpc1");
 
         int[] arrInt = new int[n];
         System.out.println("Enter the elements of the array: ");
